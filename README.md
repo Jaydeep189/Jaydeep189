@@ -1,4 +1,4 @@
-<h1 align="center">I like to build stuff.</h1>
+<h3 align="center">I like to build stuff.</h3>
 
 ## About Me
 
